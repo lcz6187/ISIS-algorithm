@@ -1,0 +1,9 @@
+8
+node1 sp25-cs425-3301.cs.illinois.edu 8001
+node2 sp25-cs425-3302.cs.illinois.edu 8001
+node3 sp25-cs425-3303.cs.illinois.edu 8001
+node4 sp25-cs425-3304.cs.illinois.edu 8001
+node5 sp25-cs425-3305.cs.illinois.edu 8001
+node6 sp25-cs425-3306.cs.illinois.edu 8001
+node7 sp25-cs425-3307.cs.illinois.edu 8001
+node8 sp25-cs425-3308.cs.illinois.edu 8001

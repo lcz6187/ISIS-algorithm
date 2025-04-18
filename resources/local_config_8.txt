@@ -1,0 +1,9 @@
+8
+node1 localhost 8012
+node2 localhost 8023
+node3 localhost 8034
+node4 localhost 8042
+node5 localhost 8053
+node6 localhost 8064
+node7 localhost 8072
+node8 localhost 8083

@@ -1,0 +1,4 @@
+3
+node1 localhost 8002
+node2 localhost 8003
+node3 localhost 8004
